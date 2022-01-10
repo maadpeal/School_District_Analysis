@@ -16,8 +16,10 @@
     - For only 0.01% the "% Passing Reading" is affected (images A-1, A-2).
     - For all the above, the "% Overall Passing" shows a decrease of 0.3%. (images A-1, A-2).
     
-![](https://github.com/maadpeal/School_District_Analysis/blob/main/Resources/a-1_base.png) A-1 (original data)
-![](https://github.com/maadpeal/School_District_Analysis/blob/main/Resources/a-2.png) A-2 (without 9th)
+![](https://github.com/maadpeal/School_District_Analysis/blob/main/Resources/a-1_base.png)
+A-1 (original data)
+![](https://github.com/maadpeal/School_District_Analysis/blob/main/Resources/a-2.png) 
+A-2 (without 9th)
 
 #### How is the school summary affected?
     - The values affected would be only those of Thomas High School
